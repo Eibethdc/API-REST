@@ -1,0 +1,8 @@
+
+Started GET /joyas/filtros?precio_min=25000&precio_max=30000&categoria=aros&metal=plata for :: ::ffff:127.0.0.1 at Sun Jul 14 2024 20:03:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 21 ms Request ID: [53f545ae-35d4-450b-949d-b7158f77aea4]
+
+Started GET /joyas?limits=3&page=2&order_by=stock_ASC for :: ::ffff:127.0.0.1 at Sun Jul 14 2024 20:04:33 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 64 ms Request ID: [84ec27bd-e161-4208-bbcd-8c883ec557ab]
